@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = rupertsealey@hotmail.com
+	name = rupert sealey
